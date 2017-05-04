@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2017/4/28 PM8:40
-# @Author  : Shiloh Leung
+# @Author  : 梁司其
 # @Site    : 
 # @File    : LexerBag.py
 # @Software: PyCharm Community Edition
@@ -74,7 +74,7 @@ def ErrPrinter(lineCount, errMessage, errOut):
 
 
 def Analysis(line, lineCount, dydOut, errOut):
-    print(line, file=dydOut, end='')
+    #print(line, file=dydOut, end='')
     wordList = line.strip().split()
 
     for word in wordList:

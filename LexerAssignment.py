@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2017/4/28 PM10:48
-# @Author  : Shiloh Leung
+# @Author  : 梁司其
 # @Site    : 
 # @File    : LexerAssignment.py
 # @Software: PyCharm Community Edition
